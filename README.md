@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Atividade globo
+> Atividade globo com um pequeno Hello World feito com Nodejs e Typescript
 
 ## Install
 
