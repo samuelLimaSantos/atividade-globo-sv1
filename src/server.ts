@@ -6,6 +6,6 @@ const app = express();
 
 app.use(express.json())
 
-app.use('/', (request, response) => response.json({ message: 'Hello World'}));
+app.use('/', (_, response) => response.json({ message: 'Hello World'}));
 
 app.listen(port);
